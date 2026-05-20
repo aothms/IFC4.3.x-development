@@ -34,8 +34,8 @@ This enumeration defines the predefined types of <!-- FILL IN: which entity uses
 ### SELFDRILLING
 <!-- FILL IN: description of SELFDRILLING. -->
 
-### GLASSFIBREREINFORCEDPLASTICS
-<!-- FILL IN: description of GLASSFIBREREINFORCEDPLASTICS. -->
+### GLASS_FIBRE_REINFORCED_PLASTICS
+<!-- FILL IN: description of GLASS_FIBRE_REINFORCED_PLASTICS. -->
 
 ### OTHER
 <!-- FILL IN: description of OTHER. -->
@@ -45,3 +45,4 @@ Value is unkown
 
 ### UNSET
 Value has not been specified
+
