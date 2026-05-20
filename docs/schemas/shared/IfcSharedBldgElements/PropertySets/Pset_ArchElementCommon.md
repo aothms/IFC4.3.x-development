@@ -13,8 +13,8 @@ The centroid radius of the element.
 ### InnerRadius
 The inner radius of the element.
 
-### IsLoadBearing
-Specifies whether the element is load bearing (TRUE) or not (FALSE).
+### LoadBearing
+<!-- FILL IN: description of LoadBearing (IfcBoolean). -->
 
 ### OuterRadius
 The outer radius of the element.
