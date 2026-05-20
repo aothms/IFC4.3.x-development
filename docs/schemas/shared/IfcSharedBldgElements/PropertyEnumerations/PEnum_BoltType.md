@@ -13,8 +13,8 @@ This enumeration defines the predefined types of <!-- FILL IN: which entity uses
 ### ANCHORED
 <!-- FILL IN: description of ANCHORED. -->
 
-### ANCHOREDWITHEXPANSIONCASING
-<!-- FILL IN: description of ANCHOREDWITHEXPANSIONCASING. -->
+### ANCHORED_WITH_EXPANSION_CASING
+<!-- FILL IN: description of ANCHORED_WITH_EXPANSION_CASING. -->
 
 ### COMBINATION
 <!-- FILL IN: description of COMBINATION. -->
