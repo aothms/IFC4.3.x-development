@@ -37,12 +37,11 @@ This enumeration defines the predefined types of <!-- FILL IN: which entity uses
 ### GLASSFIBREREINFORCEDPLASTICS
 <!-- FILL IN: description of GLASSFIBREREINFORCEDPLASTICS. -->
 
+### OTHER
+<!-- FILL IN: description of OTHER. -->
+
 ### NOTKNOWN
 Value is unkown
 
 ### UNSET
 Value has not been specified
-
-### USERDEFINED
-<!-- FILL IN: description of USERDEFINED. -->
-
