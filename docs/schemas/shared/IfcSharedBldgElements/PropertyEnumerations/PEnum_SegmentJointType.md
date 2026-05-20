@@ -19,12 +19,12 @@ Joint of type Convex-Convex connecting 2 rings segments or arches.
 ### CONCAVE_CONVEX
 Joint of type Concave-Convex connecting 2 rings segments or arches.
 
-### UNSET
-Value has not been specified
+### OTHER
+<!-- FILL IN: description of OTHER. -->
 
 ### NOTKNOWN
 Value is unkown
 
-### USERDEFINED
-<!-- FILL IN: description of USERDEFINED. -->
+### UNSET
+Value has not been specified
 
