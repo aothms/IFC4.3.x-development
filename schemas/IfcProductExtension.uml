@@ -3892,6 +3892,7 @@ AND
     <packagedElement xmi:type="uml:Class" xmi:id="_-fAO0FXKEfG4C82eD2nGUg" name="IfcElementAssemblyTypeEnum.DUCTBANK">
       <generalization xmi:type="uml:Generalization" xmi:id="_-fAO0VXKEfG4C82eD2nGUg" general="cl_IfcElementAssembly"/>
       <generalization xmi:type="uml:Generalization" xmi:id="_-fAO0lXKEfG4C82eD2nGUg" general="cl_IfcElementAssemblyType"/>
+    </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_y2ndIFXPEfG4C82eD2nGUg" name="IfcSpatialZoneTypeEnum.CLEARANCE">
       <generalization xmi:type="uml:Generalization" xmi:id="_y2ndIVXPEfG4C82eD2nGUg" general="cl_IfcSpatialZone"/>
       <generalization xmi:type="uml:Generalization" xmi:id="_y2ndIlXPEfG4C82eD2nGUg" general="cl_IfcSpatialZoneType"/>
