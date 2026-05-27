@@ -3932,6 +3932,7 @@ AND
     <packagedElement xmi:type="uml:Class" xmi:id="_ze0FkFXPEfG4C82eD2nGUg" name="IfcSpatialZoneTypeEnum.TESTEDZONE">
       <generalization xmi:type="uml:Generalization" xmi:id="_ze0FkVXPEfG4C82eD2nGUg" general="cl_IfcSpatialZone"/>
       <generalization xmi:type="uml:Generalization" xmi:id="_ze0FklXPEfG4C82eD2nGUg" general="cl_IfcSpatialZoneType"/>
+    </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="cl_IfcLinearZone" name="IfcLinearZone" isAbstract="true">
       <generalization xmi:type="uml:Generalization" xmi:id="cl_IfcLinearZone_gen_IfcLinearElement" general="cl_IfcLinearElement"/>
     </packagedElement>
